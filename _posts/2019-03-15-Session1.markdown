@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Сесія 1"
-date:   2019-08-01 00:00:00 +0000
+date:   2019-03-15 00:00:00 +0000
 categories: Dnd roleplay
 ---
 ### Загін шукачів пригод:
