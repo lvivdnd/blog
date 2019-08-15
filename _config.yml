@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: DnD Adventures
-email: your-email@example.com
+email: planitir@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  History of mysterios advantures of some small party of players.
+  Історія неймовірних пригод широко відомих у вузьких кругах незнайомців.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  lvivdnd
 
 # Build settings
 markdown: kramdown
